@@ -1,0 +1,73 @@
+
+s	java:S127ş"XRefactor the code in order to not assign to this loop counter from within the loop body.(œººüÿÿÿÿ
+s	java:S127‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(œººüÿÿÿÿ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(à¬éüÿÿÿÿ
+\
+java:S2184^"FCast one of the operands of this multiplication operation to a "long".(†¿™é
+U
+java:S3034…">Prevent "int" promotion by adding "& 0xff" to this expression.(­€ë™
+U
+java:S3034‡">Prevent "int" promotion by adding "& 0xff" to this expression.(›†½¦
+S
+java:S2589İ"7Remove this expression which always evaluates to "true"(”– Âıÿÿÿÿ
+S
+java:S2589Í"7Remove this expression which always evaluates to "true"(”– Âıÿÿÿÿ
+S
+java:S2589Õ"7Remove this expression which always evaluates to "true"(”– Âıÿÿÿÿ
+S
+java:S2589Æ"7Remove this expression which always evaluates to "true"(”– Âıÿÿÿÿ
+`
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(Â¼¶Ëùÿÿÿÿ
+[
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(­‡î¸
+`
+java:S1124_"EReorder the modifiers to comply with the Java Language Specification.(É÷“Ùúÿÿÿÿ
+[
+java:S1124b"EReorder the modifiers to comply with the Java Language Specification.(ááİÈ
+[
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(ÿÑµí
+[
+java:S1124d"EReorder the modifiers to comply with the Java Language Specification.(Äãü‘
+`
+java:S1124e"EReorder the modifiers to comply with the Java Language Specification.(šïÜ•ıÿÿÿÿ
+`
+java:S1124f"EReorder the modifiers to comply with the Java Language Specification.(Øî—·ùÿÿÿÿ
+[
+java:S1124g"EReorder the modifiers to comply with the Java Language Specification.(Õš
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(œàÎú
+=	java:S131“""Add a default case to this switch.(å˜¨ÿÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(²ÒşÍ
+I
+java:S1135†"2Complete the task associated to this TODO comment.(ÁàáÂ
+8	java:S131¢""Add a default case to this switch.(šÅ„°
+=
+java:S1168Ú"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168÷"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Ò"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168à"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Š"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168œ	"&Return an empty array instead of null.(¥¹ï
+W	java:S125Ï	"<This block of commented-out lines of code should be removed.(¹ºÙªüÿÿÿÿ
+W	java:S125
+"<This block of commented-out lines of code should be removed.(¡Ï”Êÿÿÿÿÿ
+W	java:S125¢
+"<This block of commented-out lines of code should be removed.(˜ıÛ‰ùÿÿÿÿ
+W	java:S125§
+"<This block of commented-out lines of code should be removed.(¹ºÙªüÿÿÿÿ
+R	java:S125«
+"<This block of commented-out lines of code should be removed.(ÕŞ‡ç
+V
+java:S3398ú"?Move this method into the anonymous class declared at line 969.(¨Ëî
+\
+java:S3398Ù"@Move this method into the anonymous class declared at line 1080.(åçÃıÿÿÿÿ
+P
+java:S1068U"5Remove this unused "GATT_SAR_COMPLETE" private field.(Éôíšıÿÿÿÿ
+X
+java:S1068_"=Remove this unused "HASH_RANDOM_NUMBER_LENGTH" private field.(É÷“Ùúÿÿÿÿ

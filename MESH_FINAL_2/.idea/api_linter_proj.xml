@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectConfig">
+    <option name="importPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+    <option name="jsonFile" value="S:\Documents\AndroidStudioStuff\MESH_FINAL\.api-linter.json" />
+    <option name="yamlFile" value="S:\Documents\AndroidStudioStuff\MESH_FINAL\.api-linter.yaml" />
+  </component>
+</project>
